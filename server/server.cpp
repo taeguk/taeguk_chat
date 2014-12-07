@@ -265,3 +265,4 @@ int ServerManager::logout(UserEx* user)
 
 
 //리퀘스트패킷과 리플라이 패킷 만들기.
+//
